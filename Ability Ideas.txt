@@ -1,0 +1,375 @@
+1 Ring of Sicarus
+Red - Slam : Beastling slams the ground in a small area around it dealing damage to all nearby enemy units. (Halved against beetles)
+Blue - Safe Space : Push ALL units within a small area around your beastling away.
+Yellow - Volte-face : Rotate ALL units 180 degrees around your beastling, can be recasted within 1 second before going on cooldown.
+Purple - Tantrum : After charging for 1 second, your beasting will unleash a series of ground slams for 3 seconds. Dealing damage to all near by enemy units. (Halved against Huts)
+White - Early Bird : Starting cooldown of purple ability is decreased by 50%.
+
+
+2 The Deluder
+Red - Clone : Go invisible for 1 second, leaving a clone behind that shoots a small projectile at the nearest enemy unit. (Prioritises beastlings)
+Blue - Feign : For the next 2 seconds, enemy beastlings will not see your healthbar change. Additionally, heal a small amount of health: 
+Yellow - Defector : Brainwash an enemy beetle to fight for you until it's death.
+Purple - Loyal Subjects : After channeling for 1 second, this beastling become a royal unit for 5 seconds. If this beastling is damaged by an unloyal unit, ALL enemy units are forced to attack the traitor.
+White - Mind Games : Your enemies only can only see your health bar change 1 second after being healed or taking damage. 
+
+
+3 Willump's Rage (Reference to Nunu's sasquatch)
+Red - Frost Ball : Fire a slow moving projectile that follows it's target. Dealing large damage and a heavy 3 second slow to the target
+Blue - Ring of Frost : Create a circle of ice around your beastling that lasts 5 seconds, freezing all enemies that try to enter the ring for 2 seconds and dealing a small amount of damage.
+Yellow - Sculpt : Create an ice replica of yourself infront of you that lasts up to 5 seconds, the replica rapidly loses health as it melts.
+Purple - -273.15 : Lock down in place and channel for 3 seconds, creating a blizzard around your beastling that slows enemy movement speed. At the end of the 3 second channel, deal massive damage to all enemies inside the blizzard. (Damage increases the longer the blizzard is channeled)
+White - Chilled : Near by enemies are slowed by 20%
+
+
+4 Vulcan's Spirit
+Red - Purity : After a breif charge, your beastling realeases a torrent of white flames, which deal double damage to shields.
+Blue - Flesh of Fire : With skin of fire, you deal high damage to ANY unit you touch, lasts 10 seconds.
+Yellow - Blacksmith's Hammer : Hit the ground infront of you, dealing damage a small amount of damage and knocking all enemies hit backwards.
+Purple - Vulcanalia : Erupt into a festival of flames, engulfing the area in flames for 5 seconds.
+White - Burning Torment : Damaging an enemy unit applies a 5% maxHP burn over 3 seconds.
+
+
+5 Acrobatics
+Red - Strafe : Quickly dash in a direction, shooting in an alternating direction each dash.
+Blue - Detach : Push off of the nearest enemy unit in the selected area, boosting you away from them and them from you. (Prioritises beastlings)
+Yellow - Friend or Foe : Jump to the nearest beastling in the selected area, if they're an ally, shield them for 10% of your hp, if they're an enemy, increase damage taken by 20%. Lasts 3 seconds.
+Purple - Jumper : Dash in a direction, dealing damage to all enemy units passed through. Hitting the same target 3 times deals massive damage. (Short CD)
+White - Wind Runner : Walk through all units and 10% movement speed bonus.
+
+
+6 Necrosis
+Red - Bad Faith : Fire a projectile travelling a short distance, if dealing 10 damage to the first enemy unit hit. If the projectile doesnt hit an enemy unit, the caster takes 7 damage, 3 damage if an enemy beatle is hit. (NO MANA COST)
+Blue - Masochist's Shield : Gain a 20 health shield for 5 seconds, if the shield isn't destroyed by the time it expires, the caster takes the remaining shield's health as damage.
+Yellow - Creek Styx : A path of death spawns from a target wall and runs until it reaches the wall opposite, ALL units that pass over creek styx are slowed by 20% pay 10% max health and 20% max mana.
+Purple - Death's Touch : Call death to take a sacrifice, if after two seconds the sacrifice does not have less than 20% hp, the caster is sacrificed instead.
+White - Reciprocity : 10% of all damage dealt to this beastling is returned to the caster over 3 seconds.
+
+
+7 Staves of Tamriel
+Red - Forsworn Staff : Fire a small ball of fire that lights enemies on fire for 5 seconds, enemies hit by this ability that are already affected by this effect take double damage.
+Blue - Halldir's Staff : Calms all enemy minions in an area around the caster for 10 seconds.
+Yellow - Staff of Tandil : Cause ALL near by enemies to flee for 2 seconds;
+Purple - Staff of Magnus : Fire a beam in a direction, rapidly draining the mana of the first target it hits. If the target is out of mana, drain health instead.
+White - Key to Aetherius : Increase max mana by 10.
+
+
+8 Pyli
+Red - They came from : From a short distance infront of you a portal opens and a projectile shoots towards you, dealing damage to the first enemy unit it hits. (Can also damage the caster)
+Blue - Cicada Shell : Gain a shield for 2 seconds that blocks an ability from an enemy beastling and teleports the caster a short a distance away from the attacker.
+Yellow - Phase-shift : Select a nearby area to teleport to, after a breif charge. Your beastling will disappear for 1 second, and reapear at the targetted area.
+Purple - Backdoor : When activated, the next wall that your beastling touches will teleport them to the wall opposite of the wall touched. (2 Charges)
+White - Forever : Extend the range of all target and skill shot abilities by 20%.
+
+
+9 Rindler's Chart
+Red - Wither : Fire a wave in a direction, dealing damage over 5 seconds and halving the health regen of all units hit.
+Blue - Double-Time : Increase movementspeed by 50% for 2 seconds and double health regeneration for 5 seconds.
+Yellow - BlackHole : When active, enemies are pulled toward you and damaged. The closer they are, the stronger the pull and damage.
+Purple - TimeScaleZero : Apon taking fatal damage, become invulnerable and freeze all nearby enemy units for 2 seconds. (Very Long CD) (Passive)
+White - Revert : Regenerate 20% of all damage taken over 10 seconds.
+
+
+10 Shamanic Arts
+Red - Spiritual Vengeance: For 2 seconds, 50% of all damage dealt to this beastling is deducted the attacker’s mana pool.
+Blue - Local Knowledge (reference DW): Reduce the cooldown of all non-ultimate skills on CD by 3 seconds. Heal/Mana return for every skill affected.
+Yellow - Cannibalism: Deal damage to an allied beastling equal to a % of their MaxHP and heal for the same amount. The cannibalised beastling heals for 75% of its damage over 5 seconds.
+Purple - Heart of Darkness (reference JoCon): Shroud all allied beastlings in shadow for 3 seconds, rendering them untargetable (but still damageable by skill shots), granting 15% increased movement speed, and dealing DPS.
+White - Beetlejuice: Last hitting a beastling will store a charge of Bettlejuice. At three charges, the next wave spawns two extra beetles.
+
+
+11 God Ray
+Red - Condensation : Fire four seperate rays from near by you towards a target direction, each ray dealing 5 damage to the first unit they hit. (Upto 20 damage)
+Blue - True Sight : Reveal all nearby invisible enemy units for 5 seconds.
+Yellow - Magnify : Place a gate in a target position, all allied skill shot projectiles that pass through this gate have increased damage.
+Purple - Purity : While active, any ability that damages an enemy will remove all of their buffs. (10 mana per ability cast) (Toggleable passive)
+White - Stunned prey : Hitting an invisible enemy unit will stun and reveal them.
+
+
+12 Basilisk's Peeve
+Red - Shock : Deal a small amount of damage to the nearest enemy unit. (Prioritises Beastlings)
+Blue - Phase Walk : Become untargetable for 2.5 seconds and deal a small amount of damage to near by enemies each second.
+Yellow - Pulse Flash : Instantly teleport a small distance, releasing a small projectile dealing a small amount of damage to the nearest enemy unit. (Prioritises Beastlings)
+Purple - Shadow fight : For the next 10 seconds, any ability you cast will make you go invisible for 10% of the ability's cooldown. 
+White - True Strike : 25% of all damage ignores damage reduction and shields.  
+
+
+13 Pain Doctrine
+Red - Pain Doctor : While active, consecutive attacks against a single target deal bonus Dam and apply a slow, stackable.
+Blue - Masochism : Gain damage reduction. The caster heals for 125% of the Dam they take during this time.
+Yellow - Sadism : While active, caster heals for 100% of the damage they deal.
+Purple - Restraining Apparatus : After a delay, stun all units in a small area in front of the caster, and silence when the stun ends.
+White - Sucker for Pain : Every second in combat grants 5% lifesteal. (max 50%)
+
+
+14 Elemental Pact (Costs health and mana)
+Red - Blood for Flames : A cone of flames radiate forward from the caster, dealing damage and leaving behind scorched earth. EUs that pass over the scorched earth take damage every second that they remain on it.
+Blue - Blood for Ice : Caster creates an area of ice on the ground around that slows EUs that walk over it.
+Yellow - Blood for Lightning : fire a bolt of energy in a direction, briefly stunning the first EU hit. The bolt then jumps to another nearby EU and repeats. Can jump up to four times.
+Purple - Blood for Stone : Passively reduces damage taken by the caster by 15%. When activated, the caster gains bonus max HP. This skill can be reactivated to cancel the health bonus and instead drop a boulder onto the ground, dealing damage to all units struck, that then rolls down the lane, dealing damage to and briefly stunning all units hit. The passive bonus is lost while this skill is on CD.
+White - Elemental Affinity : Immune to debuffs from Elemental Pact abilities.
+
+
+15 Cadaverish
+Red - Contagion: Deals damage to an EU and applies a DoT. If the EU dies while afflicted the caster is healed and the effect jumps to a nearby EU.
+Blue - Organic Flak: The caster takes damage in return for MS and reduced damage.
+Yellow - Ragdoll: Play dead and become invulnerable for 10 seconds.
+Purple - Undying Hunger: If the caster takes fatal damage after activation then instead of dying they become frenzied, gaining MS and CDR but gradually losing health. If enough EUs are slain nearby while Frenzy is active then the caster is fully revived.
+
+
+16 Vampiricism
+Red - Virus: Spits a projectile in a direction, dealing damage to the first EU hit and infecting them. Allied attacks against infected units increase the damage of the next cast.
+Blue - Vestements: Upon activation, any damage that the caster deals adds to a shield that will continue to grow as long as the caster is dealing damage. (slowly degenerates after 1 second)
+Yellow - Vitriole: Briefly stun all units directly in front of the caster. Briefly silence EUs just beyond the stun area. Briefly slow EUs just beyond the silence area.
+Purple - Visage: The caster reverts back to the true vampiric form for a short time, gaining bonus MS, CDR, and periodically absorbing skills that hit them. Allied attacks against units infected by Virus extend the duration of this skill.
+White - Volatility: Every thirty seconds the next damage you take from any source heals you for that amount (excludes executes and instakills).
+
+
+17 Entropy
+Red - Chaos Punch : Hit all units a short distance infront of you, dealing anywhere from -5 damage to 15 damage.
+Blue - Choas Shield : Any damage taken for the next 3 seconds has a 33% chance of being blocked, 33% chance of being converted to health and a 33% chance of being amplified by 50%. 
+Yellow - Chaos Blessing : On cast, your beastling has a 50% chance of having 70% decreased movement speed and 30% increased damage for 3 seconds... and 50% chance of the opposite.
+Purple - Chaos Storm : Over 3 seconds, unleash a torrent of random targetting projectiles that damage ANY near by unit. (Can hit caster) (15 projectiles max)
+White - Chaos Cast : All ability's have a 25% chance to deal 200% damage and a 25% change to deal 50%.
+
+
+18 King’s Rule
+Red - Execution : Deal damage to an EU. Deal 5% increased damage for every 15% of HP they are missing (i.e. if they have 85-71% HP, deal 5% increased damage; if 70-56% HP,  10% increased damage).
+Blue - King’s Guard : While at 40% HP or below, this unit take 30% reduced damage.
+Yellow - Royal Heirlooms : Activate to gain 75% damage reduction for 3 seconds.
+Purple - Ancient Lineage : After channeling for 2.5 seconds the caster becomes empowered, gaining +20% MS and regenerating 10 HP every 2 seconds for 10 seconds. Nearby AUs gain 50% of these effects.
+White - Noble's Will : Decrease all CC by 25%
+
+
+19 Queen’s Influence
+Red - Deadly Decoy : Become invisible for 2 seconds and leave a trap at the point of activation that applies a DoT to the next EU to pass near it.
+Blue - Guilt Trip : Force an AU to taunt for 3 seconds and take 25% reduced damage for the duration.
+Yellow - Negotiator : Sacrifice 20% of current HP to make an AU invulnerable for 2 seconds.
+Purple - Kill Order : Mark an EU for death for 10 seconds, causing them to take 20% increased damage. Additionally, AUs that attack the marked unit gain +20% MS and heal for 5% of their missing HP.
+White - Queen’s Claim : Damaging an enemy unit applies a 20% slow for 1 second.
+
+
+20 Geography
+Red - Blast Zone: Create a small zone at target area that lasts for 6 seconds. Every two seconds ALL units within the area take damage.
+Blue - Bunker: Create a small area around the caster that grants 3 Shield Points every second to ALL units within it. Lasts 10 seconds.
+Yellow - Supply Crate: After 5 seconds, restore 30% of Max HP and MP to ALL units in the indicated zone.
+Purple - Battlefield: A large area around the caster becomes a safe zone, while all area outside the safe zone deals DPS to ALL units (excluding structures).
+White - Camouflage : Every 4 seconds that this unit is in combat it becomes invisible for 1 second.
+
+
+21 Five Stones
+Red - Rock Spray : Fire a 3 rocks in quick succession knocking back and deal damage to the first EU hit.
+Blue - Stone Carapace : Decrease the damage of the next 3 attacks. 75% decrease on the first hit, 50% on the second and 25% on the third.
+Yellow - Soul Stone : First Cast | Summon a stone infront of your beastling the blocks walking. Normal Cast | If the soul stone is not near by, it is pulled towards you, knocking away and dealing damage to all enemies in it's path. If the stone is near you, it is flung a short distance with the same effect.
+Purple - Earthquake Seed : Spend 2 seconds of planting this stone seed. All enemies in a large area are locked in a stone ring and an earthquake starts, erratically moving all near by enemies around and dealing damage.
+White - Protection Stone : 5 Seconds after taking damage, gain a shield equal to the last damage you've taken. Shield Lasts 5 seconds.
+
+
+22 Red's Ebonstone
+Red - Vilethorn : Fire a spike in a target direction which leaves a trail that lasts 2 seconds, dealing damage to any enemies that remain in the trail.
+Blue - Shadow Orb : Create a barrier around an allied beastling lasting 5 seconds, if the ally is attacked. The shield is consumed and a projectile is fired back at the attacker.
+Yellow - Corrupt : Corrupt the ground in a small area around you, this area will grow slowly until you leave it. Any enemies that enter corrupted ground take a small amount of damage per second and are slowed.
+Purple - Eater Of Worlds : Summon a giant worm which travels in a target direction which splits off into two smaller worms if recasted. (Can bounce up to 3 times) (smaller worms do 60% damage)
+White - Thorny Bushes : Leave behind a trail of thorny bushes that deal a small amount of damage to enemies that walk through them. (Trail lasts 5 seconds)
+
+
+23 The Worm (Liero reference)
+Red - Bouncy Larpa : Fire a fast traveling projectile that bounces off of structures and walls dealing damage to the first unit hit. Bounces extend range.
+Blue - Grapple : Fire a rope that passes through enemies, if it hits a wall. Your beastling will be pulled towards the wall, can be canceled by recasting.
+Yellow - Dirtball : Fire a projectile that encompasses an enemy, rooting them and absorbing all enemy projectiles that pass through the dirtball. The enemy unit is free once the dirtball is destroyed. (Has set health)
+Purple - Nuke : Fire a small ball in a target direction, after 2 seconds the ball explodes into smaller parts, which after 3 seconds will also explode dealing a small amount of damage. (Coverd ~ 1/4 of arena)
+White - Booby Trap : Your beastling does not regen health per second. However, Every 10 seconds your beastling will drop a health pack on the ground that will become usable only if there is more than 1 healthpack on the ground. there is a 50% chance that a healthpack will deal damage instead of heal. (packs last 20 seconds, can heal enemies, can damage allies, your beastling can tell which are traps, heal/damage = hp regen/s * 15)
+
+
+24 Cursor
+Red - Redeemer (UT reference) : Fire a projectile that travels in the direction that your beastling is facing, dealing medium damage to the first enemy hit. If no enemy is hit within 3 seconds, the projectile explodes dealing 50% extra damage in AoE.
+Blue - Soul Shield : Summon a shield that faces in your beastlings aim direction. Lasts up to 5 seconds. (shield has 25% max hp as health)
+Yellow - Pillar Spin : Summon an obstacle that extends from your beastling into the direction you're facing, hitting an enemy deals damage per second of contact. (Rotation speed is limited)
+Purple - Celestial Wave : For the next 8 seconds, star like projectiles will spawn from the wall you're facing and fly towards you, dealing damage to the first unit they hit. (10 stars per second, spread out over large width)
+White - Spin Shield : After casting an ability that costs more than 25% of your beastlings max mana, gain a shield that rotates around your beastling, absorbing 1 projectile if hit. (shield pos is relative to aim direction).
+
+
+25 Moduli
+Red - Modulus4 : Fire a bullet, damaging the first enemy hits. (No manacost, 3 charges, Running out of charges puts the ability on cool down for 8 seconds replenishing the charges)
+Blue - Modulus3 : Become immobile and take 75% reduced damage for 0.5 seconds. (No manacost, 2 charges, running out of charges puts the ability on cool down for 25 seconds, replenishing the charges)
+Yellow - Modulus2 : First cast - Fire a wave that pushes all enemies infront of your beastling away, Second Cast : Summon a wave in the distance that pulls all enemies towards your beastling. (No Manacost, goes on cooldown after second cast for 20 seconds)
+Purple - Modulus1 : Silence ALL units on the map for 5 seconds.
+White - Modulus0 : Deal infinite damage to enemies with less than 10% hp. (Instant kill)
+
+
+26 Triforce
+Red - Boomerang : Throw a boomerang in an eliptical shape dealing damage to all enemies units. Catching the boomerang resets the cooldown. (10 second cooldown)
+Blue - Hook Switch : Fire out a hook in a target direction, switching position with an enemy unit stunning them for 0.25 seconds.
+Yellow - Mirror Shield : Summon a mirror shield that lasts 3 seconds, reflecting any skill shots.
+Purple - Spin Charge : Apon activation your beastling is silenced, it's movement speed is decreased by 25% and it begins charging(up to 5 seconds), the longer your beastling charges, the more damage is dealt. (min damage:10 max damage:25)
+White - Lens of Truth : Near by invisible enemy units become visible.
+
+
+27 Pyromania
+Red - Pyrophobia : Fire a ghastly flame in a direction, setting all enemies alight for 3 seconds and fearing them for 1 second.
+Blue - Pyrotection : Apon activation, become imbuded with a fiery aura that inflicts a DoT burn to any enemies that damage you.
+Yellow - Pyrophilia : Place down an flaming ward, any enemies facing towards the ward are lured to it. If an enemy touches the ward they set alight for 3 seconds. Ward lasts 5 seconds.
+Purple - Pyropsis : While active, all abilities deal 25% of your beastlings missing health over 1 second. (Toggle) (extra 5 mana cost per ability)
+White - Pyrosynthisis : Convert any DoT to health.
+
+
+28 Grey's Bar
+Red - Red-To-Grey : Deal a flat amount of damage to all enemies in an medium area around your beastling, giving all enemies hit a shield equal to twice the damage dealt that lasts 3 seconds. 
+Blue - Grey-to-Green : Shield yourself for a flat amount for 3 seconds. If no damage is dealt to the shield by the time it expires, it is converted to health.
+Yellow - Feathers-and-Grey : Increase movement speed by 50%, shielding all allied units passed through for 2 seconds.
+Purple - Red-To-Green : Lock down and channel for two seconds, after the channel, switch health with the nearest enemy beastling.
+White - Equilibrium : If your health is less than the enemy teams average beastling health percentage, your health regen is increased by 50%.
+
+
+29 Chain Lightning
+Red - Hypercharge : Apon activation your Beastling will begin charging, within 0.5 and 3 seconds, your beastling will randomly discharge it's energy dealing a large amount of damage to a near by enemy, which will bounce up to 5 times. (25% damage to beetles)
+Blue - Spark Gap : Zap your nearest ally (Beastlings prioritised), giving them a shield which after one second will transfer the shield. After each second, the shield will bounce between the caster and the target ally, refreshing the shield and it's duration. (Will cancel if caster and ally are too far apart or if one dies)
+Yellow - Shackles : Zap the nearest enemy unit, dealing a small amount of damage and snaring them for 2 seconds, when the effect ends it is transfered to another near by enemy. (Cannot affect the same unit twice)
+Purple - Endless Storm : Fire a bolt of lightning in a target direction afflicting the first target hit with a debuff that deals flat damage every second, the debuff will attempt to jump to a near by enemy unit every second(not spread), this skill ends only if it kills an enemy unit and there are no near by units to jump to.
+White - Echo of Thunder : 35% Damage dealt to an enemy unit will chain to a near by enemy unit. (Does not apply to DoT)
+
+
+30 Seven Deadly Sins
+Red - Gluttony & Greed : Steal a small amount of health from all near by allies in order to fire a projectile dealing damage equal to the health stolen to all enemy units it passes through.
+Blue - Pride : Apon activation, increase your current health and max health by 2% for every second in combat, this buff will last until your beastling hasn't taken damage for 3 seconds. (Must have taken damage within the last 3 seconds to cast)
+Yellow - Lust : Shoot out 7 projectiles in a ring around you, dealing a moderate amount of damage and charming any enemy unit it for 2 seconds.
+Purple - Wrath and Envy : Create a link between you and a target enemy beastling, stealing health every 0.25 seconds equal to a % of your missing health. (Cancelable only by stuns and silences OR if the range between you and the target exceeds a threshold)
+White - Sloth : Use 33% less mana to cast abilities. Consequently every 3rd ability cast will have no effect (and cost no mana).
+
+
+31 Seven Lifely Virtues
+Red - Diligence : Fire two projectiles that travel in a crescent(mirrored) that give 20% damage resistance for 3 seconds to any ally it passes through and dealing 10% of an enemies max health per crescent.
+Blue - Chastity : Become immune to all crowd control for 3 seconds.
+Yellow - Humility & Charity : Add your health and mana regen to your nearest ally (prioritises beastlings) by forfitting your mana and health regen for 8 seconds.
+Purple - Kindness and Temperance : Create a large zone around your caster, any units inside this zone become immune to crowd control and damage, once casted can only be stopped by running out of mana. (25% max mana per second) (Cooldown = duration(seconds)*20) (current MP must be >= 25% max MP)
+White - Patience : If an enemy beastling is the first one to start combat, gain 15% damage reduction for 3 seconds. (Refreshes when out of combat for 5 seconds)
+
+
+32 Alchemy
+Red - Equivalent Exchange : Forfeit a flat amount of health to deal a flat amount of damage to the nearest enemy beastling.
+Blue - Equivocal Exchange : Gain a flat amount of health but give a flat amount of health to the nearest enemy beastling.
+Yellow - Crysopoeia : Fire a projectile a moderate distance in a target direction turning the first ANY unit into gold(Stun), charming all near by enemy units for 1.5 seconds.
+Purple - Philosopher's Stone : Sacrificing your next beetle wave, for the next 10 seconds your abilities have no mana cost. (Effect ends early if over 5x max mana is expent)
+White - Transmutation : If your beastling is shielded and the shield expires, your beastling will be healed for the remaining shield point value. (Max 20% maxHP)
+
+
+33 Bard
+Red - Pizzicati : Apon activation,strike the furthest away enemy within range, this ability can be reactivated after exactly 0.5 seconds (up to 4 times) to recast. If not reactivated on time the ability goes on cooldown.
+Blue - Serenade : Increase health regen of near by allies each second while active. (costs mana/ps)(effect lasts 1 sec after leaving indicator)
+Yellow - Pianissimo : Shrink near by enemies and decrease their damage and movement speed by 15%. (costs mana/ps)(effect lasts 1 sec after leaving indicator)
+Purple - Symphony : Every 10 seconds this ability will rotate between 4 different states (Allegro : Increase movement speed of all near by allies by 20%. Adagio : Slow all near by enemies by 20%. Minuet : Knock back near by enemies a short distance, an enemy can only be affected once every 4 seconds. Rondo : Increase your beastlings movement speed by 35%) (Passive)(Between each stage there is a 5 second gap where this passive will have no effect)
+White - Repeat : Recast an ability as soon as it goes on cool down. (Doubles cooldown)(Basic abilities only)
+
+
+34 Instincts
+Red - Predator : Dash forward a small distance, firing a short ranged projectile infront of you dealing damage to all units it hits and slowing them (High damage, low-med cooldown) 
+Blue - Prey : Dash backwards a small distance, firing a short ranged projectile in the direction your beastling came from knocking back and slowing all units it hits for 2 seconds.
+Yellow - Blood Scent : Increase damage when near by enemy units are below 20% health. (Passive) (20% increased damage for low enemy beastlings) (5% increased damage for low enemy beetles)(doesnt stack)
+Purple - Devourer : Instantly kill a beetle and gain flat max health.
+White - Fight or Flight : While below 20% health, gain 20% movement speed and 20% increased damage. (until out of combat for 5 seconds)
+
+
+35 Specialist
+Red - Redless : Other abilities that deal damage now deal a large flat amount. (Passive)
+Blue - Blueless : Shields and heals of other abilities are increased by a large flat amount. (Passive)
+Yellow - Yellowless : Strength(not duration) of Crowd control of other abilities are increased by 20%. (Passive)
+Purple - Purpleless : Other abilities have larger cooldowns but effects of Redless, blueless and Yellowless apply.
+White - Whiteless : Effects of Redless, Blueless, Yellowless but decreased for balance.
+
+
+36 Parasite
+Red - Blood Beetle : Throw a beetle a small distance latching onto the first enemy unit it hits dealing damage for the rest of the beetles life. If the thrown beetle misses, it will find the nearest enemy unit. Beetles last 5 seconds.
+Blue - Life Leach : Create a link with the nearest enemy beastling that lasts 5 seconds, any health gained by the enemy is also gained by you. This ability is cancelled if the enemy is too far away (Cooldown starts when ability finishes or is cancelled).
+Yellow - Movement Eater : For the next 5 seconds abilities steal movement speed from enemies proportionately to the damage dealt.
+Purple - Flea : Fire a flea in a target direction, inflicting the first enemy unit hit with a flea which deals damage per second for 3 seconds. If the inflicted unit gets to close to other enemy units, the fleas will spread. (A unit can not be affected by the same cast of this ability twice)
+White - Crawling Soil : Gain health from near by units that die.
+
+
+37 Excessive Force
+Red - One-Inch Punch : Strike the first unit directly infront of your beastling, dealing large damage and knocking the struck unit back.
+Blue - Paroxysm : Channel for 1 second, any near by enemies within a small range of your beastling will be knocked back a large distance, becoming stunned and taking damage if hitting a wall or structure. (Can walk while channeling, but movement speed is decreased by 50%)
+Yellow - Bully : Knock all enemies directly infront of your beastling back small distance. (3 charges, 20-30s cd)
+Purple - Monolith : Spawn a giant mountain directly infront of your beastling which lasts 10 seconds, knocking all units back. (If correctly placed can block lane completely)
+White - Plough : While this Beastling has a 30% speed boost or higher it will knock back any units it collides with. (A unit cannot be affected by this passive more than once every 5 seconds)
+
+
+38 Patience
+Red - Patient Strike : Strike all enemies in a short line infront of your beastling, dealing damage to all units hit. This ability has no cooldown, however the longer you wait before striking the more damage it deals. (up to 3 seconds) (<0.5s = 0 damage, <1s = 20% damage, <2s = 50% damage, <3s = 100% damage)
+Blue - Gaining Restore : Initially heal 5% of your missing health per second, increasing by 1% per second, but also costing the same % in current mana. (Toggleable)
+Yellow - Jump Quest : Jump toward a target beastling, After jumping 15 times this ability will additionally stun the target beastling for 2 seconds on cast. 
+Purple - Rebirth : This ability only become usable when your beastling has had less than 25% health for over 25 seconds. After this time, this ability can be activated to instantly regain all lost health. (No cooldown)
+White - Self-Restraint : Purple ability is usable 30 seconds later than usual, however it's cooldown is decreased by 40%.
+
+
+38 sets
+28 unassigned
+(38 * 4) + 38 = 190 abilities
+
+
+////UNSORTEDS
+
+
+//REDS
+Soul Eater : Strike the closest enemy unit infront of your beastling, if the strike kills the unit the abilities damage increases by a flat amount.
+Forever Thorn : Fire a poisonous thorn that travels a short distance, poisoning the first unit it hits for 5 seconds. Poison duration stacks. (3 sec cd)
+Perpetual Fire : Fire a projectile that deals damage to any enemy unit it hits. The distance that the projectile will travel refreshes when it hits ANY unit.
+Soul Wolf : Start the game with a pet wolf by your side, it will stay near by you and attack near by units. Activating this ability will cause it to target an enemy beastling, if the wolf's health is reduced to 0, it will stop attacking and follow the owner for 15 seconds before regaining full health. (Wolf is untargettable while regenerating) 
+Pins on Strings : Fire a pin on a string in a target direction, sticking into the first enemy it hits. If there are 10 pins in enemies, your next cast will pull all the pins back, dealing a small amount of damage per pin and pulling the enemy slightly towards you (Damage and pull distance stack with # of pins [per unit]) (An single enemy can have a total of 10 mins stuck in it (maximising damage and pull on that unit)) (If an enemy dies with a pin in it before the pins are pulled, the pins in enemies count is decreased)
+Atomic Clip : Apon activation, fire in a target direction shooting a fast travelling projectile dealing 1 damage every 0.2 seconds for 5 seconds. (Can't be canceled) (No Cooldown)
+
+
+//BLUES
+Beetle Armour : Killing an enemy beetle within 1 second of activating this ability increases damage reduction by 1%.
+Spirit Protector : Bless an allied beastling, if the blessed beastling reaches fatal damage within 2 seconds, they will be paralised and regenerate 10% of their maxHP over 2 seconds.
+Fleeter's Trap : Drop a bomb that launches you a short distance in a target direction and knocks near by enemies back.
+Shield Snatcher : Dash a large distance in a target direction, stealing all shields passed through. If no shields are stolen your beastling will teleport back to where it dashed from, doubling the cooldown of the ability.
+Barbed Snare : Apon activating, the next enemy beastling to deal damage to your beastling within the next second is snared and takes damage each second for the next 2 seconds.
+Safety Soil : Send out a wide wave in a target direction that travels till it hits a wall or structure. The wave leaves behind a trail that lasts 7 seconds, mitigating a flat amount of damage to any allied units on the trail.
+Energy Shield : While out of combat for 3 seconds gain a shield that grows by 1 hit value each second until it is equal to 15% of your beastlings max health. (Passive)
+Beckon : Apon activating, the next enemy beastling to target you with an ability will instead be charmed towards you for 3 seconds.
+
+
+//YELLOWS
+Cat Vault : Jump in a target direction, If an EU is hit, travel twice as far. Dealing a % of the EU's maxHP.
+Malevolent Gift : Enemy beastlings have +50% movement speed for 0.3 seconds. When the ability is activated.
+Copy-cat : Copy the ability that your beastling was last affected by. (Can't be a purple)
+Contained Rage : Pull a far away beastling close to you, increasing their damage by 50%. But they are unable to leave a small ring surrounding them for 3 seconds.
+Redirect : Remove all debuffs and Fire a projectile at the nearest enemy beastling (rangeless), applying the debuffs to the first enemy unit it hits.
+Defenseless : Any enemies facing towards your beastling is slowed by 15% and are unable to be shielded for 5 seconds
+Premeditate: After 5 seconds of channeling, your beastlings next ability will skip it's charging/channeling phase if it has one.
+Implosive Charge : Spawn a bomb a short distance infront of your beastling that detonates after a second dealing damage and pulling all enemy units towards the charge.
+
+
+//PURPLES
+Into the void : Your beastling and a target enemy beastling enter the void for 5 seconds, visible to noone but eachother.
+Mirror Move : Become stunned, absorbing the next ability that hits you. Allowing you to cast that ability once.(Cooldown is equal to ability copied) (Cooldown starts when copied ability is used)
+Pre-execution : Charge a laser for atleast 3 seconds, after 3 seconds fire a beam in a line that deals damage to all enemy units based on the enemies missing health. (Cannot kill)
+Mimic : Recast the last ability your beastling casted. (Cool down and mana cost equal to last ability cooldown and mana cost times 2)
+Transfusion : After a 3 second channel swap health with the beastling with the most health on the map. (Can effect allys)
+Instantiate : Split into two beastlings each with 40% less damage and 40% less health. (Abilities are shared) (Split beastlings can split into more beastlings) (Any split that dies adds max health and damage back to splits that are still alive)
+Auto-Immolation : Break into a rage, increase damage and movement speed and decrease cooldowns by 30%, but take damage every second, the amount increases each second. The buff and damage is removed when your beastling kills an enemy beastling. (This ability cannot bring you bellow 5% maxHP)
+Encumbrance : Fire a projectile in a target direction, if it doesnt hit an enemy unit, your beastling will be given a random debuff that lasts 5 seconds (All debuffs on your beastling will be refreshed). Hitting an enemy unit with this ability will transfer all debuffs from your beastling to the enemy unit. Additionally gain a passive that decreases effectiveness of all debuffs by 10% for each debuff your beastling is afflicted by (Multiplicitive).
+
+
+//WHITES
+Scopophobia : The duration of all invisibility skills is increased by 20%
+Impact : Hitting an enemy with a spell snares them for 0.25 seconds
+No-Gen : Uneffected by healthregen but (large maxhealth OR MAYBE uneffected by dot).
+Sleep Talk (PMD Reference) : While silenced, stunned or knocked back your beastling may cast 1 ability.
+Pillager's Glory : Gain movement speed dependant on how close you are to the enemy hut. (range: -10% + 25%)
+Beetle Slayer : Every 3 seconds a nearby enemy beetle will be marked, dealing over 50% of it's current health will execute it. (Only one beetle can be marked at a time)
+HomeWrecker : Dealing damage to an enemy hut decreases it's resistance to other allies by 20% for 3 seconds.
+Aether : Your beastling is immortal and abilities cost no mana, however your beastling is 50% slower and all abilities are 20% as effective. (Your beastling is still affected by CC)(Taking damage slows by 20%)
+Third Eye : Your beastling's vision is drastically reduced, however your beastling will have an indicator pointing at where enemy beastlings are. (Works on enemies that have some form of stealth)
+Energy : Decrease max mana and increase mana regen drastically.
+Rage : Your beastling has no mana regen but instead generates mana while in combat and and while taking damage.
+
+
+FORMAT___
+
+<NAME>
+Red -  :
+Blue -  :
+Yellow -  :
+Purple -  :
+White -  :
